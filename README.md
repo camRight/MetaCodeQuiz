@@ -23,3 +23,9 @@ else if false "execute.this"
 6. High Score will need to be an array. We're going to append and/or add to the array of high scores. Hmmm maybe we should do an empy [] to start, then use shift or another array adder to start adding scores. We're going to do the two value-pairs:
 
 initials & scoreValue
+
+user input on initials. We'll need a user gui input. what is relevant js. include it here. 
+
+7. Develop at least 4 options to pick from on each question. math.floor(math.random +1)   ????? we'll need a plus 1 and make it a range of 4 options. Does that mean 0-3 so that we have 4 total indexes? hmmmm. or 1-4 doesn't really matter
+
+8. Develop 
