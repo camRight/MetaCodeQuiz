@@ -18,7 +18,7 @@ To do/Needed.
 
 5. score counter
 if score = true then +1 to score. Maybe a for loop? we'll need a variable init for score
-else if false "execute.this"
+else if score = false "execute.this"
 
 6. High Score will need to be an array. We're going to append and/or add to the array of high scores. Hmmm maybe we should do an empy [] to start, then use shift or another array adder to start adding scores. We're going to do the two value-pairs:
 
