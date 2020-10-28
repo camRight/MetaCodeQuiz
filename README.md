@@ -1,5 +1,5 @@
 # MetaCodeQuiz
-
+---
 ## Functionality
 
 In this program the user is prompted questions about programming.
@@ -16,12 +16,15 @@ To do/Needed.
 
 4. Timer in all pages (or the 1 page) at the top of page. How much time should they get. Per question or for the whole quiz? For the whole quiz would be easier.
 
-            document.getElementById("timer").innerHTML =  hours + "h "+ minutes + "m " + seconds + "s ";
+```
+{
+`code`            document.getElementById("timer").innerHTML =  hours + "h "+ minutes + "m " + seconds + "s ";
 
-            still need end text i.e. innerhtml = "EXPIRED"
+`code`            still need end text i.e. innerhtml = "EXPIRED"
 
-            should all answers after timer expire = false? create a variable that checks truthiness on answers
-
+`code`            should all answers after timer expire = false? create a variable that checks truthiness on answers
+}
+``` 
 
 5. score counter
 if score = true then +1 to score. Maybe a for loop? we'll need a variable init for score
@@ -33,7 +36,7 @@ initials & scoreValue
 
 user input on initials. We'll need a user gui input. what is relevant js. include it here. 
 
-7. Develop at least 4 options to pick from on each question. math.floor(math.random +1)   ????? we'll need a plus 1 and make it a range of 4 options. Does that mean 0-3 so that we have 4 total indexes? hmmmm. or 1-4 doesn't really matter
+7. ~~~Develop at least 4 options to pick from on each question. math.floor(math.random +1)   ????? we'll need a plus 1 and make it a range of 4 options. Does that mean 0-3 so that we have 4 total indexes? hmmmm. or 1-4 doesn't really matter~~
 
 8. Develop 
 
