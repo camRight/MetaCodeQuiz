@@ -57,7 +57,7 @@ user input on initials. We'll need a user gui input. what is relevant js. includ
 
 
 
-4. If a test-taker wanted to take "full-advantage" of their resources... In other words potentially <i>cheat</i> how would they do it?
+4. If a test-taker wanted to take "full-advantage" of their resources... In other words potentially <i>cheat</i> on this test how would they do it?
 
 1. Eliminate the most improbable answers then make an educated guess.
 2. Ask their instructor/mentor.
