@@ -55,5 +55,5 @@ If the dev wants to console log multiple object properties in the same console.l
 
 User can cheat by inspecting elements. If answer is called by class and other answers are called by something else--user can find the right answer without actually konwing it. Consider revising in the future.
 
-Will closures reduce cheating? Research.
+Will closures reduce cheating? Research. can minify and obfuscate code to decrease readability--one option?
 
