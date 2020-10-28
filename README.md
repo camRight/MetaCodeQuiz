@@ -18,6 +18,8 @@ To do/Needed.
 
             document.getElementById("timer").innerHTML =  hours + "h "+ minutes + "m " + seconds + "s ";
 
+            still need end text i.e. innerhtml = "EXPIRED"
+
 
 5. score counter
 if score = true then +1 to score. Maybe a for loop? we'll need a variable init for score
