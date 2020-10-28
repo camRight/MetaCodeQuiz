@@ -36,7 +36,7 @@ user input on initials. We'll need a user gui input. what is relevant js. includ
 
 ## Questions: 
 
-If the dev wants to console log multiple object properties in the same console.log() '&&' does not work. How do we print multiple properties ont the same line?
+If the dev wants to console log multiple object properties in the same console.log() '&&' does not work. How do we print multiple properties on the same line?
 
 1. ,
 2. andAlso
