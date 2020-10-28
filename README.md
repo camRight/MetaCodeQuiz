@@ -16,6 +16,9 @@ To do/Needed.
 
 4. Timer in all pages (or the 1 page) at the top of page. How much time should they get. Per question or for the whole quiz? For the whole quiz would be easier.
 
+            document.getElementById("timer").innerHTML =  hours + "h "+ minutes + "m " + seconds + "s ";
+
+
 5. score counter
 if score = true then +1 to score. Maybe a for loop? we'll need a variable init for score
 else if score = false "execute.this"
