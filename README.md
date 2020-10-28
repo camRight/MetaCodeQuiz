@@ -38,7 +38,9 @@ user input on initials. We'll need a user gui input. what is relevant js. includ
 
 - [ ] ~~~Develop at least 4 options to pick from on each question. math.floor(math.random +1)   ????? we'll need a plus 1 and make it a range of 4 options. Does that mean 0-3 so that we have 4 total indexes? hmmmm. or 1-4 doesn't really matter~~
 
-8. Develop 
+
+
+
 
 
 
@@ -56,7 +58,7 @@ If the dev wants to console log multiple object properties in the same console.l
 
 ## Cheating -- Revise Later
 
-User can cheat by inspecting elements. If answer is called by class and other answers are called by something else--user can find the right answer without actually konwing it. Consider revising in the future.
+User can cheat by inspecting elements. If answer is called by class and other answers are called by something else--user can find the right answer without actually knowing it. Consider revising in the future.
 
 Will closures reduce cheating? Research. can minify and obfuscate code to decrease readability--one option?
 
