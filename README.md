@@ -57,12 +57,14 @@ user input on initials. We'll need a user gui input. what is relevant js. includ
 
 
 
-4. If a test-taker wanted to take "full-advantage" of their resources... In other words potentially <i>cheat<i> how would they do it?
+4. If a test-taker wanted to take "full-advantage" of their resources... In other words potentially <i>cheat</i> how would they do it?
 
 1. Eliminate the most improbable answers then make an educated guess.
 2. Ask their instructor/mentor.
 3. Google it.
 4. Inspect ELement for class/id.
+
+
 ## Cheating -- Revise Later
 
 User can cheat by inspecting elements. If answer is called by class and other answers are called by something else--user can find the right answer without actually knowing it. Consider revising in the future.
