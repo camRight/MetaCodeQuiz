@@ -20,6 +20,8 @@ To do/Needed.
 
             still need end text i.e. innerhtml = "EXPIRED"
 
+            should all answers after timer expire = false? create a variable that checks truthiness on answers
+
 
 5. score counter
 if score = true then +1 to score. Maybe a for loop? we'll need a variable init for score
