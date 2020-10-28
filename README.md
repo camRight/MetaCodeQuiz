@@ -41,3 +41,5 @@ user input on initials. We'll need a user gui input. what is relevant js. includ
 
 User can cheat by inspecting elements. If answer is called by class and other answers are called by something else--user can find the right answer without actually konwing it. Consider revising in the future.
 
+Will closures reduce cheating? Research.
+
