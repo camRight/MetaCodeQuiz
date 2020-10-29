@@ -11,6 +11,8 @@
   unicode-range: U+0-10ffff
 }
 
+* {background-color: cadetblue;}
+
 body {
     font-family: 'Roboto';
     margin-left: 2em;
