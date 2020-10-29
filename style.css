@@ -13,12 +13,14 @@
 
 body {
     font-family: 'Roboto';
+    margin-left: 2em;
+    margin-top: 2em;
 }
 
 ul.line-separated
     {
         padding: 0;
-        margin-left: 1em;
+        margin-left: 2em;
     }
     ul.line-separated li
     {
