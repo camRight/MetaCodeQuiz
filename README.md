@@ -38,6 +38,7 @@ user input on initials. We'll need a user gui input. what is relevant js. includ
 
 - [ ] ~~~Develop at least 4 options to pick from on each question. math.floor(math.random +1)   ????? we'll need a plus 1 and make it a range of 4 options. Does that mean 0-3 so that we have 4 total indexes? hmmmm. or 1-4 doesn't really matter~~
 
+- [x] woff2 file added and `ROBOTO` font added. Waded through @font-face hell. Pretty cool.
 
 
 
