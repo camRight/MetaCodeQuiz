@@ -3,6 +3,7 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 300;
+  /* woff2 or be damned. user better have a super modern browser, because it ain't changing */
   src:  local('Roboto Thin'),
         local('Roboto-Thin'),
         url(./assets/KFOlCnqEu92Fr1MmYUtfBBc4.woff2),
