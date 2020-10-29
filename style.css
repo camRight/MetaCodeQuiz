@@ -1,6 +1,21 @@
+/* latin Char */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src:  local('Roboto Thin'),
+        local('Roboto-Thin'),
+        url(./assets/KFOlCnqEu92Fr1MmYUtfBBc4.woff2),
+        url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2) format('woff2');
+  unicode-range: U+0-10ffff
+}
+
+body {
+    font-family: 'Roboto';
+}
+
 ul.line-separated
     {
-        background-color: rgb(189, 222, 235);
         padding: 0;
         margin-left: 1em;
     }
@@ -9,5 +24,6 @@ ul.line-separated
         background-color: white;
         margin: 1px 0 0 0;
         padding: 0;
-        list-style-type: none;
+        list-style-type: square;
     }
+
