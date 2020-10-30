@@ -11,14 +11,16 @@
   unicode-range: U+0-10ffff
 }
 
-* {background-color: cadetblue;}
+* {background-color: #E8E5D6;}
 
 body {
+    color: #564C87;
     font-family: 'Roboto';
     font-size: 25px;
     margin-left: 2em;
     margin-right: 2em;
     margin-top: 2em;
+    
 
 }
 
@@ -26,10 +28,11 @@ ul.line-separated
     {
         padding: 0;
         margin-left: 2em;
+        margin-right: 50px;
     }
     ul.line-separated li
     {
-        background-color: white;
+        background-color: #9991C1;
         margin: 3px 0 0 0;
         padding: 0;
         list-style-type: square;
