@@ -14,7 +14,7 @@
 * {background-color: #E8E5D6;}
 
 body {
-    color: #564C87;
+    color: #17142b;
     font-family: 'Roboto';
     font-size: 25px;
     margin-left: 2em;
@@ -24,16 +24,17 @@ body {
 
 }
 
-ul.line-separated
-    {
+
+/* change to radio options  */
+ul.line-separated {
         padding: 0;
-        margin-left: 2em;
+        margin-left: 6em;
     }
-    ul.line-separated li
-    {
-        background-color: #9991C1;
-        margin: 3px 0 0 0;
-        padding: 0;
-        list-style-type: square;
-    }
+    ul.line-separated li {
+            background-color: #2e2b3b;
+            color: 	#26D840;
+            margin: 5px 400px 0 0;
+            padding-left: 8px;
+            list-style-type: round;
+        }
 
