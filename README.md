@@ -72,3 +72,5 @@ User can cheat by inspecting elements. If answer is called by class and other an
 
 Will closures reduce cheating? Research. can minify and obfuscate code to decrease readability--one option?
 
+All valid questions. But instead I added an ID describing each answer. We'll go by id's rather than a "wrongId" and a "correctId".It'll be referenced in the JS rather than in the HTML. That'd help, right? Yes. Obfuscates it slightly.
+
