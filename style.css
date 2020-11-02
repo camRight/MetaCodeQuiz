@@ -24,7 +24,8 @@ body {
 
 }
 
-p.timer {
+#timer {
+    margin-right: 50px;
     text-align: right;
 }
 
