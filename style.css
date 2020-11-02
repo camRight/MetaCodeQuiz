@@ -24,17 +24,24 @@ body {
 
 }
 
+p.timer {
+    text-align: right;
+}
+
+
+p.center {
+    color: #373447
+}
+
 
 /* change to radio options  */
-ul.line-separated {
-        padding: 0;
-        margin-left: 6em;
+form {
+        margin-left: 1em;
+        color: 	#26D840;
+        margin: 5px 400px 0 0;
+        padding-left: 8px;
     }
-    ul.line-separated li {
-            background-color: #2e2b3b;
-            color: 	#26D840;
-            margin: 5px 400px 0 0;
-            padding-left: 8px;
-            list-style-type: round;
-        }
 
+p.question-container {
+
+}

@@ -15,25 +15,33 @@
         
         <h1>Quiz your Javascript Knowledge!</h1>
 
-        <p class="center">This is a timed test. You have 20 minutes to answer all questions.
-             To pick the correct answer left-click on 1 of the options.</p>
+        <p class="center">This is a timed test. You have 20 minutes to answer all questions.</p>
         <p class="center">Ready? Click START button to begin test.</p>
 
         <button id="start">Start!</button>
 
 
         <!-- new change: going to form.input type="radio" -->
-        <form> 
+
+        <form class= "line-separated"> 
         <h2> Question 1:</h2>
         <p class="question-container">If the dev wants to console log multiple object properties in the
          same console.log() '&&' does not work. How do we print
         multiple properties on the same line?</p>
 
-        <ul class = "line-separated">
-            <li id = "comma"> , </li>
-            <li id = "andAlso">andAlso</li>
+
+            <input type="radio" id="comma" name="q1" value="comma">
+            <label for="comma">&nbsp;&nbsp; ,    </label><br>
+
+<!--  -->
+            <input type="radio" id="comma" name="q1" value="comma">
+            <label for="comma">&nbsp;&nbsp; , </label><br>
+            <!-- PIPES option -->
+            <label for="comma">&nbsp;&nbsp; || Pipe it! </label><br>
+            <label for="comma">&nbsp;&nbsp; & </label><br>
+            <!-- <li id = "andAlso">andAlso</li>
             <li id = "pipes">|| Pipe it!</li>
-            <li id = "ampersand"> & </li>
+            <li id = "ampersand"> & </li> -->
         </ul>
 
 

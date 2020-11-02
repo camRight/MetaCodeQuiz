@@ -13,4 +13,9 @@ window.onload = function () {
         var sec = 1200
         var timer = setInterval ()
     }
+
+
+    if finished (
+        //localStorage.setItem("firstName", "Cameron")
+    )
 };
