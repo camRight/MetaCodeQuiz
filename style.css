@@ -24,6 +24,11 @@ body {
 
 }
 
+
+#inline {
+    display: inline-block;
+}
+
 #timer {
     margin-right: 50px;
     text-align: right;
