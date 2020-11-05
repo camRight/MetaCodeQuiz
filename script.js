@@ -1,5 +1,6 @@
 window.onload = function () {
     
+    // Timer
 
     let countMin = 
     let countSec = 
@@ -9,13 +10,20 @@ window.onload = function () {
     let timerSecondsPush = document.getElementById("secondsLeft").innerHTML = countSec
 
     // set to click event. check for 1 click with ms delay
-    function timer () {
+    
+
+    // submit start  button
+    document.querySelector("#start").addEventListener("click", function () {
+        function timer () {
         var sec = 1200
         var timer = setInterval ()
     }
+    })
 
 
     if finished (
-        //localStorage.setItem("firstName", "Cameron")
+        //localStorage.setItem("initials", "")
     )
 };
+
+document.forms['']

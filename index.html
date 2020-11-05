@@ -10,12 +10,12 @@
 
     <div class="quiz">
         
-        <div id="inline">
             <!-- timer -->
-            <p id="timer"><span>Time Left: <span id="minutesLeft">20</span><span id="secondsLeft">:</span>00</span></p>
+            <!-- reduced scope to 200 seconds -->
+            <p id="timer"><span>Time Left: <span id="secondsLeft">200</span> seconds</p>
             
             <h1>Quiz your Javascript Knowledge!</h1>
-        </div>
+
             <p class="center">This is a timed test. You have 20 minutes to answer all questions.</p>
             <p class="center">Ready? Click START button to begin test.</p>
 
@@ -24,7 +24,7 @@
 
         <!-- new change: going to form.input type="radio" -->
 
-        <form class= "line-separated"> 
+        <form class= "q1form"> 
 
 
         <div id = "q1-cont">
@@ -54,9 +54,10 @@
 
         </div>
 
-
+    </form>
 <!-- Beginning Question two. Name="q2" beginning new exclusive options -->
 
+    <form id = "q2form">
         <div id = "q2-cont">
 
             <h2> Question 2:</h2>
@@ -82,7 +83,7 @@
                 <label for="q1Choice4">&nbsp;&nbsp; & Amp it! </label><br>
         </div>
 
-
+</form>
 
 
 
