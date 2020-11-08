@@ -74,3 +74,11 @@ Will closures reduce cheating? Research. can minify and obfuscate code to decrea
 
 All valid questions. But instead I added an ID describing each answer. We'll go by id's rather than a "wrongId" and a "correctId".It'll be referenced in the JS rather than in the HTML. That'd help, right? Yes. Obfuscates it slightly.
 
+## Future Expanded Scope
+
+// TODO:  let cfunc = clearEl.remove() bound to a isclicked boolean.
+// func clears top paragraph
+    // let clearEl = document.getElementById("clearStart");
+
+
+    // let y = x, cFunc;

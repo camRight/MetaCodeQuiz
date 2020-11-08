@@ -5,9 +5,10 @@
 
     let timerCount = 200;
     let timerEl = document.querySelector("#secondsLeft");
-    let start = document.querySelector("#start")
+    let start = document.querySelector("#start");
 
-let x = window.setInterval( function() {
+
+    let x = window.setInterval( function() {
             timerCount--;
             timerEl.textContent = timerCount
 
@@ -17,19 +18,8 @@ let x = window.setInterval( function() {
         }, 2000)
     // submit start  button
     
-    
-    start.addEventListener("click", x)
-        // var clearDiv = document.getElementById("clearStart")
+start.addEventListener("click", x)
 
-        // function Clear() {
-        //     document.body.clearDiv.parentNode.removeChild(clearDiv);
-        // }
-  
-
-    // display = document.querySelector("secondsLeft")
-    // let timerSecondsPush = document.getElementById("secondsLeft").innerHTML = countSec
-    // if finished (
         //localStorage.setItem("initials", "")
-    // )
 
 
