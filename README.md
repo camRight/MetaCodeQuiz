@@ -2,7 +2,7 @@
 ---
 ## Functionality
 
-In this program the user is prompted questions about programming.
+In this program the user is prompted questions about programming. Traversing the DOM to insert code into our HTML.
 
 ## Where to start?
 
